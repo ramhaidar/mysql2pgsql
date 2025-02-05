@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+0_to_be_convert.sql
+1_insert_data.xlsx
+4_final_postgresql.sql
+3_processed_insert_data.xlsx
+3_postgresql_inserts.sql
+2_postgresql_scheme.sql
